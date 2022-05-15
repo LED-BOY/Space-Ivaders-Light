@@ -1,0 +1,2 @@
+First flash the file "FLASH_FIRST"
+Then you can flash the game, or some sprites will be missing, pay attention to flash setting "EEPROM" retained
