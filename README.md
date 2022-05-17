@@ -4,8 +4,7 @@ Attiny 402.
 It should work on any Attiny compatible series that meet minimun requirements.
 To display some sprites: first flash the flash sprite scketch included inside the game folder, then flash the game.
 CHECK FLASH SETTINGS FOR THE ARDUINO IDE BEFORE FLASHING
-INSTALL:
-Tinyi2c library, deafult wire library is too big https://github.com/technoblogy/tiny-i2c
+INSTALL:Tinyi2c library, deafult wire library is too big https://github.com/technoblogy/tiny-i2c
 Megatinycore: https://github.com/SpenceKonde/megaTinyCore
 Game&Light hardware:
 https://hackaday.io/project/184703-gamelight-a-keychain-size-game-console-with-a-led
